@@ -9,4 +9,12 @@ Practice Responsive HTML/CSS
 - Main
 - Footer
 ## Specific to this website:
-
+1. Header
+2. Slider
+3. Content
+    - About
+    - Tour
+    - Contact
+    - Image
+    - Footer
+4. Footer
